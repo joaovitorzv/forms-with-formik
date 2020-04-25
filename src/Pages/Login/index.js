@@ -66,7 +66,7 @@ export default function Login() {
         )}
       </Formik>
 
-      <a href="/register">Already Have an account?</a>
+      <a href="/">Already Have an account?</a>
     </FormContainer>
   )
 }
