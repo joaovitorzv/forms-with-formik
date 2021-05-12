@@ -1,3 +1,6 @@
-# Forms com Formik Yup e Styled-Components
+### Form with formik 
 
-Esse código faz parte de um artigo meu, no medium: [Validando formulários no ReactJS usando Formik + Yup + Styled-Components](https://medium.com/@joaovitorzv/validando-formul%C3%A1rios-no-reactjs-usando-formik-yup-styled-components-4d92234e0ddf)
+![Form screenshot](https://miro.medium.com/max/1786/1*eXy7YRi-RZKJwMp43bCiVQ.png)
+
+**Veja o artigo completo no medium:** 
+[Validando formulários no ReactJS usando Formik + Yup + Styled-Components](https://medium.com/@joaovitorzv/validando-formul%C3%A1rios-no-reactjs-usando-formik-yup-styled-components-4d92234e0ddf)
